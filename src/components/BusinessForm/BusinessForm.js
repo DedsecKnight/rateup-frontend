@@ -527,7 +527,6 @@ const BusinessForm = () => {
                 
             </form>
 
-            <EstimateRating />
         </Fragment>
     )
 }
